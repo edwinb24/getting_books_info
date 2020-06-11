@@ -5,7 +5,7 @@ import FullPost from '../../components/FullPost/FullPost';
 import NewPost from '../../components/NewPost/NewPost';
 import './Blog.css';
 
-const URL = "https://jsonplaceholder.typicode.com/posts"
+import URL from "./../../GLOBALS"
 
 class Blog extends Component {
 
